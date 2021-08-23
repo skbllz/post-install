@@ -1,0 +1,4 @@
+avr-gcc
+avr-libc
+avrdude
+tinygo
